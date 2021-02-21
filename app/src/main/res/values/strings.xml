@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidProject_GINF3</string>
+
+    <!-- App Strings Resources -->
+    <string name="title">User Profiles App</string>
+    <string name="subtitle">Android Project</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotpw">Forgot your password ?</string>
+    <string name="register">Not a User ? Register Here !</string>
+    <string name="FullName">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="Age">Age</string>
+    <string name="Emailreset">Provide your email to reset !</string>
+    <string name="resetpw">Reset Password</string>
+    <string name="registeruser">Register User</string>
+
+</resources>
